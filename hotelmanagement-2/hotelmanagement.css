@@ -1,0 +1,164 @@
+.logo-image{
+    height: 150px;
+    width: 175px;
+    position: absolute;
+    top: 50px;
+    left: 40px;
+}
+.bg-img{
+    width: 1520px;
+    position: relative;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.bg{
+    margin-bottom: 30px;
+}
+body{
+    padding-bottom: 3000px;
+}
+.centertext{
+    position: absolute;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 400px;
+    left: 475px;
+    color: white;
+}
+.an-experience{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    margin-left: 495px;
+    margin-bottom:50px ;
+}
+.about div{
+    font-size: 20px;
+    color: rgb(72, 69, 69);
+   margin-bottom: 15px;
+}
+.one{
+    padding-left: 170px;
+}
+.two{
+    padding-left: 120px;
+}
+.three{
+    padding-left: 180px;
+}
+.about{
+    margin-bottom: 70px;
+}
+.gallery img{
+    height: 300px;
+    width: 520px;
+}
+.gallery{
+    display: grid;
+    grid-template-columns: 545px 545px;
+    row-gap: 15px;
+    padding-left: 235px;
+    margin-bottom: 50px;
+}
+.reviews{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    margin-left: 700px;
+    margin-bottom:50px ;
+}
+.ratings img{
+    width: 150px;
+}
+.ratings{
+    display: grid;
+    grid-template-columns: 500px 500px 500px;
+    margin-left: 200px;
+    row-gap: 20px;
+    margin-bottom: 100px;
+}
+.ratings div{
+margin-bottom: 8px;
+}
+.book{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    margin-left: 700px;
+    margin-bottom:50px ;
+}
+.checkin{
+    display: inline-block;
+}
+.date-in{
+    display: inline-block;
+}
+.persons div{
+    display: inline-block;
+}
+
+.date-out div{ 
+    display: inline-block;
+}
+
+
+.book-page{
+display: grid;
+grid-template-columns: 400px 400px;
+margin-left: 300px;
+width:810px ;
+height: 300px;
+background-color: darkgrey;
+padding-top: 50px;
+padding-left: 100px;
+margin-bottom: 10px;
+border-radius: 10px;
+}
+.firstname{
+    margin-bottom: 35px;
+}
+.phone{
+    margin-bottom: 35px;
+}
+.date{
+    margin-bottom: 35px;
+}
+.persons{
+    margin-bottom: 35px;
+}
+.lastname{
+    margin-bottom: 35px;
+}
+.email{
+    margin-bottom: 35px;
+}
+.date-out{
+    margin-bottom: 35px;
+}
+.suits{
+    margin-bottom: 35px;
+}
+.button{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    background-color: darkgray;
+    margin-left: 670px;
+    border-radius: 5px;
+}
+.topright{  
+    position: absolute;
+    top: 60px;
+    right: 30px;
+}
+.topright div{
+    display: inline-block;
+    margin-left: 15px;
+    color: white;
+    cursor: pointer;
+    transition: 0.15s;
+}
+.topright div:hover{
+opacity: 0.8;
+font-size: 20px;
+}
