@@ -1,0 +1,174 @@
+.top-heading{
+    background-color:plum;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px; 
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+.navbar img{
+    width: 45px;
+    height: 45px;
+    padding-top: 12px;
+    padding-bottom: 5px;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: space-between;
+}
+.navbar p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: -3px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.glasses{
+    margin-top: 0px;
+    padding-right: 10px;margin-bottom: 5px;
+}
+.sun{
+    
+    padding-left: 5px;
+}
+.shoptime{
+    width: 1300px;
+    height: 1800px;
+    padding-left: 100px; 
+}
+.shoptime-div{
+    margin-bottom: 90px;
+}
+.upcoming-sales p{
+font-size: 40px;
+font-weight: bold;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+.upcoming-sales{
+    margin-bottom: 50px;
+}
+.table table,th,td{
+border: 1px;
+border-style: solid;
+border-collapse: collapse;
+font-family: Arial, Helvetica, sans-serif;
+}
+.table th{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color:plum;
+}
+.table table{
+    width: 1300px;
+    height: 150px;
+}
+.table{
+    padding-left: 100px;
+}
+.table td{
+   padding-left: 8px;
+}
+.table span{
+   text-decoration: line-through;
+   padding-right: 3px;
+ }
+ .table-shoptime{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: rgb(232, 224, 224);
+    margin-bottom: 30px;
+ }
+ .aboutus p{
+margin-top: 0px;
+margin-bottom: 0px;
+font-size: 60px;
+color: gray;
+font-family: Arial, Helvetica, sans-serif;
+ }
+ .aboutus{
+    margin-bottom: 20px;
+    margin-left: 8px;
+    margin-right: 8px;
+ }
+.aboutus-para p{
+    margin-top: 0px;
+margin-bottom: 0px;
+color: gray;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+}
+.aboutus-para{
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 20px;
+}
+.para-below p{
+    margin-top: 0px;
+margin-bottom: 0px;
+color: gray;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+}
+.para-below{
+    margin-bottom: 50px;
+    margin-left: 8px;
+    margin-right: 8px
+}
+.festival-sales p{
+    margin-top: 0px;
+margin-bottom: 50px;
+font-size: 40px;
+color: gray;
+font-family: Arial, Helvetica, sans-serif;
+}
+.festival-sales{
+    padding-left: 8px;
+}
+.ulist-brief{
+    margin-top: 0px;
+margin-bottom: 0px;
+color: gray;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+margin-left: 8px;
+}
+.ulist{
+    margin-top: 0px;
+margin-bottom: 70px;
+color: gray;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+margin-left: 8px;
+}
+.payment{
+    margin-top: 0px;
+    margin-bottom: 25px;
+    font-size: 40px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 8px;
+}
+.payment-para{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 8px;
+}
